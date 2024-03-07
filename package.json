@@ -57,6 +57,7 @@
     "react-textarea-autosize": "^8.4.1",
     "server-only": "^0.0.1",
     "sharp": "^0.32.1",
+    "solid-js": "^1.8.15",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^4.0.0",
